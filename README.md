@@ -25,3 +25,9 @@ matconvnet1.0-beta25 -> http://www.vlfeat.org/matconvnet/
 using pascal VOC2012 dataset  
 result (only epoch 40 and only train/val)   
 not sufficient result yet.  
+  
+Screenshot  
+objective is loss calculate layer ouput name.  
+
+![error rate result](https://user-images.githubusercontent.com/30647846/39246752-7184852a-48d2-11e8-8f37-02af37451051.png)
+
